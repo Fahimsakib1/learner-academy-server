@@ -20,6 +20,15 @@ app.get('/courses/:id', (req, res) => {
     res.send(selectedCourse);
 })
 
+app.get('/courseDetails', (req, res) => {
+    res.send(courseDetails);
+})
+
+app.get('/courseDetails/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourseDetails = courseDetails.filter (detail => detail.course_id === id);
+    res.send(selectedCourseDetails);
+})
 
 
 app.get('/', (req, res) => {

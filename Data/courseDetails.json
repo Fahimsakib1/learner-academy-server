@@ -1,0 +1,144 @@
+[
+    {
+        "id": "111",
+        "course_id": "1",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "students": 2565,
+        "course_name": "Web Development",
+        "course_image": "https://thumbs.dreamstime.com/b/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-121903546.jpg",
+        "course_description": "Web Technology refers to the various tools and techniques that are utilized in the process of communication between different types of devices over the internet. A web browser is used to access web pages. Web browsers can be defined as programs that display text, data, pictures, animation, and video on the Internet. Hyperlinked resources on the World Wide Web can be accessed using software interfaces provided by Web browsers. It basically refers to the building, creating, and maintaining of websites which includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites",
+        "duration": "6 Months",
+        "certificate": "Yes",
+        "course_fee": "5000 Taka",
+        "online-or-offline": "online",
+        "job_guarantee": "No",
+        "instructor": {
+            "name": "Fahim Faysal",
+            "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        }
+
+    },
+
+
+    {
+        "id": "222",
+        "course_id": "2",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "students": 3500,
+        "course_name": "Computer Networks",
+        "course_image": "https://img.freepik.com/free-photo/network-switch-with-cables_1137-6.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph",
+        "course_description": "Communication & Networks (DCN). Our Computer Networking Tutorial is designed for beginners and professionals. Our Computer Network tutorial includes all topics of Computer Network such as introduction, features, types of computer network, architecture, hardware, software, internet, intranet, website, LAN, WAN, etc.",
+        "duration": "6 Months",
+        "certificate": "Yes",
+        "course_fee": "5000 Taka",
+        "online-or-offline": "online",
+        "job_guarantee": "No",
+        "instructor": {
+            "name": "Rifat Hasan",
+            "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        }
+
+    },
+
+
+    {
+        "id": "333",
+        "course_id": "3",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "students": 1500,
+        "course_name": "Python",
+        "course_image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph",
+        "course_description": "Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields. Fortunately for beginners, Python has a simple, easy-to-use syntax. This makes Python a great language to learn for beginners. Our Python tutorials will cover all the fundamental concepts of Python. And by the end, you will be comfortable creating projects in Python.",
+        "duration": "8 Months",
+        "certificate": "Yes",
+        "course_fee": "7000 Taka",
+        "online-or-offline": "online",
+        "job_guarantee": "No",
+        "instructor": {
+            "name": "Akash Rahman",
+            "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        }
+
+    },
+
+
+    {
+        "id": "444",
+        "course_id": "4",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "students": 2200,
+        "course_name": "Computer Fundamentals",
+        "course_image": "https://img.freepik.com/free-photo/female-hand-typing-keyboard-laptop_1150-15742.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph",
+        "course_description": "Computer fundamentals tutorial provides basic and advanced concepts of Bootstrap. Our Computer fundamentals is designed for beginners and professionals. Computer is an electronic device i.e. used to work with information or compute. It is derived from the Latin word computare which means to calculate. Our Computer fundamentals tutorial includes all topics of Computer fundamentals such as input devices, output devices, memory, CPU, motherboard, computer network, virus, software, hardware etc.",
+        "duration": "4 Months",
+        "certificate": "Yes",
+        "course_fee": "4000 Taka",
+        "online-or-offline": "online",
+        "job_guarantee": "No",
+        "instructor": {
+            "name": "Fuad Saif",
+            "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        }
+
+    },
+
+
+    {
+        "id": "555",
+        "course_id": "5",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "students": 2700,
+        "course_name": "Digital Marketing",
+        "course_image": "https://img.freepik.com/free-photo/digital-marketing-with-icons-business-people_53876-94833.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph",
+        "course_description": "Any marketing that uses electronic devices and can be used by marketing specialists to convey promotional messaging and measure its impact through your customer journey. In practice, digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device. It can take many forms, including online video, display ads, search engine marketing, paid social ads and social media posts. Digital marketing is often compared to “traditional marketing” such as magazine ads, billboards, and direct mail. Oddly, television is usually lumped in with traditional marketing..",
+        "duration": "6 Months",
+        "certificate": "Yes",
+        "course_fee": "4500 Taka",
+        "online-or-offline": "online",
+        "job_guarantee": "No",
+        "instructor": {
+            "name": "Arafat Jaman",
+            "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        }
+
+    },
+
+
+    {
+        "id": "666",
+        "course_id": "6",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent"
+        },
+        "students": 2700,
+        "course_name": "English For All",
+        "course_image": "https://img.freepik.com/free-photo/english-british-england-language-education-concept_53876-124294.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph",
+        "course_description": "English for All is a smart, simple new way to teach yourself the English language. This highly visual course uses graphics and pictures instead of wordy explanations, making vocab and grammar easy to remember. And with extensive supporting audio, and innovative exercises covering all the core language skills, learning English has never been easier.",
+        "duration": "6 Months",
+        "certificate": "Yes",
+        "course_fee": "4500 Taka",
+        "online-or-offline": "online",
+        "job_guarantee": "No",
+        "instructor": {
+            "name": "Arafat Jaman",
+            "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        }
+
+    }
+]

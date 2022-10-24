@@ -1,0 +1,40 @@
+[
+    {
+        "id": "1",
+        "name": "Web Development",
+        "image": "https://thumbs.dreamstime.com/b/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-121903546.jpg"
+        
+    },
+
+    {
+        "id": "2",
+        "name": "Computer Networks",
+        "image": "https://img.freepik.com/free-photo/network-switch-with-cables_1137-6.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph"
+    },
+
+    {
+        "id": "3",
+        "name": "Python",
+        "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph"
+    },
+
+    {
+        "id": "4",
+        "name": "Computer Fundamentals",
+        "image": "https://img.freepik.com/free-photo/female-hand-typing-keyboard-laptop_1150-15742.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph"
+    },
+
+    {
+        "id": "5",
+        "name": "Digital Marketing",
+        "image": "https://img.freepik.com/free-photo/digital-marketing-with-icons-business-people_53876-94833.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph"
+    },
+
+    {
+        "id": "6",
+        "name": "English For All",
+        "image": "https://img.freepik.com/free-photo/english-british-england-language-education-concept_53876-124294.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph"
+    }
+
+
+]

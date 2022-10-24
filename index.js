@@ -7,10 +7,17 @@ app.use(cors());
 
 
 const courses = require('./Data/courses.json');
-
+const courseDetails = require('./Data/courseDetails.json');
 
 app.get('/courses', (req, res) => {
     res.send(courses);
+})
+
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+    const selectedCourse = courses.find( course => course.id === id);
+    res.send(selectedCourse);
 })
 
 

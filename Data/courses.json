@@ -2,38 +2,143 @@
     {
         "id": "1",
         "name": "Web Development",
-        "image": "https://thumbs.dreamstime.com/b/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-121903546.jpg"
+        "duration": "6 Months",
+        "about": "Web Development refers to the building, creating, and maintaining of websites which includes aspects such as web design, web publishing, web programming, and database management",
+        "image": "https://thumbs.dreamstime.com/b/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-121903546.jpg",
+
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "students": 2565,
+        "course_description": "Web Technology refers to the various tools and techniques that are utilized in the process of communication between different types of devices over the internet. A web browser is used to access web pages. Web browsers can be defined as programs that display text, data, pictures, animation, and video on the Internet. Hyperlinked resources on the World Wide Web can be accessed using software interfaces provided by Web browsers. It basically refers to the building, creating, and maintaining of websites which includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites",
+        "certificate": "Yes",
+        "course_fee": "5000 Taka",
+        "online-or-offline": "online",
+        "job_guarantee": "No",
+        "instructor": {
+            "name": "Fahim Faysal",
+            "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        }
         
     },
+
 
     {
         "id": "2",
         "name": "Computer Networks",
-        "image": "https://img.freepik.com/free-photo/network-switch-with-cables_1137-6.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph"
+        "duration": "6 Months",
+        "about": "The nodes of a computer network can include personal computers, servers, networking hardware, or other specialized or general-purpose hosts. They are identified by network addresses, and may have hostnames. Hostnames serve as memorable labels for the nodes, rarely changed after initial assignment. Network addresses serve for locating and identifying the nodes by communication protocols such as the Internet Protocol.",
+        "image": "https://img.freepik.com/free-photo/network-switch-with-cables_1137-6.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "students": 3500,
+        "course_description": "Communication & Networks (DCN). Our Computer Networking Tutorial is designed for beginners and professionals. Our Computer Network tutorial includes all topics of Computer Network such as introduction, features, types of computer network, architecture, hardware, software, internet, intranet, website, LAN, WAN, etc.",
+        "certificate": "Yes",
+        "course_fee": "5000 Taka",
+        "online-or-offline": "online",
+        "job_guarantee": "No",
+        "instructor": {
+            "name": "Rifat Hasan",
+            "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        }
     },
+
+
 
     {
         "id": "3",
         "name": "Python",
-        "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph"
+        "duration": "8 Months",
+        "about": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
+        "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "students": 1500,
+        "course_description": "Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields. Fortunately for beginners, Python has a simple, easy-to-use syntax. This makes Python a great language to learn for beginners. Our Python tutorials will cover all the fundamental concepts of Python. And by the end, you will be comfortable creating projects in Python.",
+        "certificate": "Yes",
+        "course_fee": "7000 Taka",
+        "online-or-offline": "online",
+        "job_guarantee": "No",
+        "instructor": {
+            "name": "Akash Rahman",
+            "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        }
+
     },
+
 
     {
         "id": "4",
         "name": "Computer Fundamentals",
-        "image": "https://img.freepik.com/free-photo/female-hand-typing-keyboard-laptop_1150-15742.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph"
+        "duration": "4 Months",
+        "about":"This course has been prepared for beginners as well as advanced learners who want to deal with computers. The course is also very useful for undergraduate students of computer science, engineering, business administration, management, science, commerce and arts, where an introductory course on computers is a part of curriculum.",
+        "image": "https://img.freepik.com/free-photo/female-hand-typing-keyboard-laptop_1150-15742.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "students": 2200,
+        "course_description": "Computer fundamentals tutorial provides basic and advanced concepts of Bootstrap. Our Computer fundamentals is designed for beginners and professionals. Computer is an electronic device i.e. used to work with information or compute. It is derived from the Latin word computare which means to calculate. Our Computer fundamentals tutorial includes all topics of Computer fundamentals such as input devices, output devices, memory, CPU, motherboard, computer network, virus, software, hardware etc.",
+        "certificate": "Yes",
+        "course_fee": "4000 Taka",
+        "online-or-offline": "online",
+        "job_guarantee": "No",
+        "instructor": {
+            "name": "Fuad Saif",
+            "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        }
     },
+
 
     {
         "id": "5",
         "name": "Artificial Intelligence",
-        "image": "https://img.freepik.com/premium-photo/futuristic-robot-artificial-intelligence-concept_31965-4087.jpg?w=1060"
+        "duration": "6 Months",
+        "about":"Explore the fascinating and fast-moving field of artificial intelligence with our online courses. Learn artificial intelligence by studying natural language processing, reinforcement learning, predictive analytics, deep neural networks, image processing, the human brain, and more today!",
+        "image": "https://img.freepik.com/premium-photo/futuristic-robot-artificial-intelligence-concept_31965-4087.jpg?w=1060",
+
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "students": 2700,
+        "course_description": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving. The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. Deep learning techniques enable this automatic learning through the absorption of huge amounts of unstructured data such as text, images, or video.",
+        "certificate": "Yes",
+        "course_fee": "4500 Taka",
+        "online-or-offline": "online",
+        "job_guarantee": "No",
+        "instructor": {
+            "name": "Arafat Jaman",
+            "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        }
     },
 
     {
         "id": "6",
         "name": "Data Analysis",
-        "image": "https://img.freepik.com/free-photo/paper-analysis_1098-15678.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph"
+        "duration": "8 Months",
+        "about":"This data analytics course will help you learn all about data analytics - what it is, how to start a career in data analytics, various applications of data analytics, and the top questions asked in data analytics interviews. This course also covers various data visualization skills and complex topics such as Python libraries and SQL.",
+        "image": "https://img.freepik.com/free-photo/paper-analysis_1098-15678.jpg?size=626&ext=jpg&uid=R42421985&ga=GA1.2.939843245.1664217746&semt=sph",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent"
+        },
+        "students": 2700,
+        "course_description": "Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data. While data analysis in qualitative research can include statistical procedures, many times analysis becomes an ongoing iterative process where data is continuously collected and analyzed almost simultaneously. Indeed, researchers generally analyze for patterns in observations through the entire data collection phase. The form of the analysis is determined by the specific qualitative approach taken (field study, ethnography content analysis, oral history, biography, unobtrusive research) and the form of the data (field notes, documents, audiotape, videotape).",
+        "certificate": "Yes",
+        "course_fee": "4500 Taka",
+        "online-or-offline": "online",
+        "job_guarantee": "No",
+        "instructor": {
+            "name": "Arafat Jaman",
+            "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        }
+
     }
 
 

@@ -22,12 +22,7 @@ Here only the server side will be described only.
 
 
 ### GitHub Link (Client Side) of This Project: 
-Github Link Client Side: https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-Fahimsakib1
-
-
-### GitHub Link (Server Side) of This Project:
-Github Link Server Side:  https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Fahimsakib1
-
+Github Link Client Side: https://github.com/Fahimsakib1/learner-academy-client
 
 ### Firebase Hosting Live Website Link:
 Live Site: https://learner-academy.web.app
